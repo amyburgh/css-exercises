@@ -26,21 +26,25 @@ html {
 }
 
 .header {
-  background-color: #FFDE22;
+  background-color: #ffde22;
   grid-column: span 2;
 }
 
 .sidebar {
-  background-color: #FF7755;
+  background-color: #ff7755;
   grid-row: 2 / 4;
 }
 
 .nav {
-  background-color: #00DDFF;
+  background-color: #642cde;
 }
 
 .article {
-  background-color: #bccbde;
+  background-color: #7e1dc3;
+}
+
+.footer {
+  background-color: #393f4d;
 }
 
 .article p {
